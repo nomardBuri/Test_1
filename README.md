@@ -86,5 +86,5 @@ class a{
 
 ![텍스트](이미지링크주소)
 
-<img width="50%" src="![20230223_175224](https://user-images.githubusercontent.com/130715111/234463439-a7dea578-4092-4520-bd24-4e9427eaee59.jpg)"/>
+<img width="50%" src="https://user-images.githubusercontent.com/130715111/234463439-a7dea578-4092-4520-bd24-4e9427eaee59.jpg"/>
 
